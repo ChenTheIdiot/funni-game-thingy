@@ -53,7 +53,7 @@
             };
 
             // Loading your GitHub file
-            player.load("https://raw.githubusercontent.com/ChenTheIdiot/funni-game-thingy/main/dinorunenterplanetd.swf");
+            player.load("https://raw.githubusercontent.com/ChenTheIdiot/funni-game-thingy/main/628617_DinoRunPD-working.swf");
         });
     </script>
 
